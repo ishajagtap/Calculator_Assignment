@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyc
+*$py.class
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Editor directories and files
+.vscode/
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Coverage
+htmlcov/
+.coverage
+coverage.xml
+
+# Node
+node_modules/
